@@ -432,4 +432,7 @@ ul {
     font-weight: bold;
     color: var(--main-color);
 }
+.footer a {
+      color: white;
+}
 /* End Footer */
